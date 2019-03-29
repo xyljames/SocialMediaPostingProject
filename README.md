@@ -1,2 +1,2 @@
 # Photo_Share_React
-You need to connect Mongodb as backend database to start this project
+A simple react Project using Redux store to shows user's posting on Google map.
